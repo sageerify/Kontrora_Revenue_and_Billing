@@ -9,7 +9,7 @@ This repository implements the **Revenue & Billing: Estimates & Line Items** sli
 ## Table of Contents
 1. [Architecture Decisions](#architecture-decisions)
 2. [Database Schema & Tenancy](#database-schema--tenancy)
-3. [Lifecycle State Machine](#lifecycle-state-machine)
+3. [Lifecycle State Machine](#lifecycle-state-machine) 
 4. [Money Correctness & Arithmetic](#money-correctness--arithmetic)
 5. [Idempotency Pattern](#idempotency-pattern)
 6. [RBAC & Security Review](#rbac--security-review)
