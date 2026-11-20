@@ -4,7 +4,7 @@ An enterprise-grade, multi-tenant Professional Services Automation (PSA) platfor
 
 This repository implements the **Revenue & Billing: Estimates & Line Items** slice end-to-end with mathematical money-correctness, multi-tenant security boundaries, idempotent mutation APIs, strict lifecycle state machines, RBAC enforcement, and an interactive UI.
 
----
+--- 
 
 ## Table of Contents
 1. [Architecture Decisions](#architecture-decisions)
@@ -292,5 +292,6 @@ To expand this revenue slice into a full enterprise billing engine:
 5. **PDF Generation & Digital Signature Portal**:
    - Headless PDF rendering (e.g. `@react-pdf/renderer` or Puppeteer worker) with company branding.
    - Client portal view allowing external client contacts to review and e-sign estimates directly.
-#   f u l l - s t a c k - a s s i g n m e n t  
+#   f u l l - s t a c k - a s s i g n m e n t 
+ 
  
