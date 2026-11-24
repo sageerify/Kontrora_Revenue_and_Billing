@@ -18,7 +18,7 @@ This repository implements the **Revenue & Billing: Estimates & Line Items** sli
 ## Table of Contents
 
 1. [Architecture Decisions](#1-architecture-decisions)
-2. [Database Schema & Tenancy](#2-database-schema--tenancy)
+2. [Database Schema & Tenancy](#2-database-schema--tenancy) 
 3. [RBAC & Security Review](#3-rbac--security-review)
 4. [API Specification](#4-api-specification)
 5. [UI Components](#5-ui-components)
