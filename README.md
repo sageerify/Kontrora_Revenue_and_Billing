@@ -12,7 +12,7 @@ This repository implements the **Revenue & Billing: Estimates & Line Items** sli
 - A strict lifecycle state machine
 - RBAC enforcement
 - An interactive UI
-
+ 
 ---
 
 ## Table of Contents
