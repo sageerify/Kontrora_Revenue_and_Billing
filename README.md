@@ -23,7 +23,7 @@ This repository implements the **Revenue & Billing: Estimates & Line Items** sli
 4. [API Specification](#4-api-specification)
 5. [UI Components](#5-ui-components)
 6. [Running Tests](#6-running-tests)
-7. [Local Setup Guide](#7-local-setup-guide)
+7. [Local Setup Guide](#7-local-setup-guide) 
 8. [What We Would Ship Next (Staff Roadmap)](#8-what-we-would-ship-next-staff-roadmap)
 
 ---
