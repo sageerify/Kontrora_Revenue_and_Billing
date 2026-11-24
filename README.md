@@ -13,7 +13,7 @@ This repository implements the **Revenue & Billing: Estimates & Line Items** sli
 - RBAC enforcement
 - An interactive UI
  
----
+--- 
 
 ## Table of Contents
 
