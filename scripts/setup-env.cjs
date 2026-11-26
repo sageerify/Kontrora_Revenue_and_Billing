@@ -11,7 +11,7 @@ if (fs.existsSync(envPath)) {
 }
 
 if (!fs.existsSync(templatePath)) {
-  console.error('ERROR: .env.local.template is missing.\n');
+  console.error('ERROR: .env.local.template is missing.\n'); 
   process.exit(1);
 }
 
