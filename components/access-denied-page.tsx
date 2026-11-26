@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { useRouter } from 'next/navigation';
 
-interface AccessDeniedPageProps {
+interface AccessDeniedPageProps { 
   title?: string;
   description?: string;
   requiredPermission?: string;
