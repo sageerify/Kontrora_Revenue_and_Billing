@@ -15,7 +15,7 @@
     "format:check": "prettier . --check",
     "test": "vitest run",
     "seed:users": "tsx scripts/create-seed-users.ts",
-    "setup:env": "node scripts/setup-env.cjs"
+    "setup:env": "node scripts/setup-env.cjs" 
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
