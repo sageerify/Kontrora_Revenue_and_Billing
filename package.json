@@ -4,7 +4,7 @@
   "description": "Professional Services Automation Platform",
   "author": "Kontrora <support@kontrora.com>",
   "private": true,
-  "scripts": {
+  "scripts": { 
     "dev": "next dev",
     "build": "next build --webpack",
     "prestart": "node --input-type=commonjs -e \"require('fs').rmSync('client/.next',{recursive:true,force:true})\"",
